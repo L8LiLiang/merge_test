@@ -1,1 +1,2 @@
 A add b.txt
+A first modify b.txt
