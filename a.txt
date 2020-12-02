@@ -6,3 +6,4 @@ B a.txt
 A a.txt
 B a.txt2
 B a.txt for rebase
+A a.txt for rebase
