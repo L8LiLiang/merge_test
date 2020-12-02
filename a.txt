@@ -4,3 +4,4 @@
 4 a.txt
 B a.txt
 A a.txt
+B a.txt2
